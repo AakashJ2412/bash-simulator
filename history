@@ -1,0 +1,20 @@
+rm sdafsadf | wc -c 
+cat < asfdsa.txt | wc -c 
+sleep 100 
+[A 
+sleep 100 
+echo asdfasd 
+rm sdgasdfgdas 
+cd - 
+cd / 
+cat < abcdefg.txt 
+cat < abcdefg.txt | wc -c 
+cat out.txt 
+cat < num.txt | wc -l > out.txt 
+cat out.txt 
+echo hello | wc -c > out.txt 
+cat < num.txt 
+cat num.txt 
+seq 1 20 > num.txt  fg 2 
+vim & 
+fg 1 

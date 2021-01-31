@@ -1,0 +1,2 @@
+all:
+	gcc ./source/cd.c ./source/sighandler.c ./source/history.c ./source/jobs.c ./source/echo.c ./source/ls.c ./source/pinfo.c ./source/main.c ./source/process.c ./source/env.c ./source/prompt.c -o shell
